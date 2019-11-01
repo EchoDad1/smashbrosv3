@@ -1,0 +1,9 @@
+C:\Users\evren.yun\source\repos\SuperSmashBrosv3\SuperSmashBrosv3\bin\Debug\SuperSmashBrosv3.exe.config
+C:\Users\evren.yun\source\repos\SuperSmashBrosv3\SuperSmashBrosv3\bin\Debug\SuperSmashBrosv3.exe
+C:\Users\evren.yun\source\repos\SuperSmashBrosv3\SuperSmashBrosv3\bin\Debug\SuperSmashBrosv3.pdb
+C:\Users\evren.yun\source\repos\SuperSmashBrosv3\SuperSmashBrosv3\obj\Debug\SuperSmashBrosv3.csprojAssemblyReference.cache
+C:\Users\evren.yun\source\repos\SuperSmashBrosv3\SuperSmashBrosv3\obj\Debug\SuperSmashBrosv3.Form1.resources
+C:\Users\evren.yun\source\repos\SuperSmashBrosv3\SuperSmashBrosv3\obj\Debug\SuperSmashBrosv3.Properties.Resources.resources
+C:\Users\evren.yun\source\repos\SuperSmashBrosv3\SuperSmashBrosv3\obj\Debug\SuperSmashBrosv3.csproj.GenerateResource.cache
+C:\Users\evren.yun\source\repos\SuperSmashBrosv3\SuperSmashBrosv3\obj\Debug\SuperSmashBrosv3.exe
+C:\Users\evren.yun\source\repos\SuperSmashBrosv3\SuperSmashBrosv3\obj\Debug\SuperSmashBrosv3.pdb
